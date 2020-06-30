@@ -1,6 +1,6 @@
 # Data Driven Insights of Wine Quality Data
 ---
-![Wine-Image](Images/wine-image.png "Source: FreshMagazine")
+![Wine-Image](Images/wine-image.jpg "Source: FreshMagazine")
 # Table of Contents
 1. Introduction
 2. Prerequisites
