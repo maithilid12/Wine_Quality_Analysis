@@ -70,6 +70,7 @@ There are three folders:
    - Yes, sweeter wines generally receive higher ratings
 5. Is there a mapping between a particular range of quality ratings and type of wine?
    - Yes. The lower ratings from 3-5 had more red samples than white. Whereas, as the quality ratings increased, white wines dominated more than red wine in the dataset.
+   
 # Acknowledgements
 The datasets can be found [here.](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 
